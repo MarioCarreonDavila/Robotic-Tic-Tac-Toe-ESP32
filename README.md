@@ -30,3 +30,6 @@ by automatically picking up and placing pieces on a physical board.
 - Debugging of integrated systems in real time.
 
 This project was developed as part of my bachelor's degree in Robotics Engineering.
+
+## Demo
+![Robotic Tic-Tac-Toe](media/robot.jpg)
