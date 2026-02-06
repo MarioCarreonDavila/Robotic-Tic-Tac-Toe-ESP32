@@ -6,17 +6,21 @@ by automatically picking up and placing pieces on a physical board.
 
 # Features 
 - Direct and inverse cinematic of the robot to know the positions on the board.
+- SolidWorks design.
 - Webcam used for vision.
 - 3 DC motors with quadrature encoders.
+- Homemade PCB and designed in EasyEDA.
 - PID based motor control.
 - Automated collection and placement using electromagnet.
 - Positioning based on angular movement (degrees to pulses).
-- Programmed using ESP32, Matlab the Arduino framework.
+- Programmed using ESP32, Matlab and the Arduino framework.
 
 # Technologies
 - ESP32
 - C / C++
 - Matlab
+- SolidWorks
+- EasyEDA
 - Webcam
 - Encoders
 - H-briges
@@ -26,8 +30,8 @@ by automatically picking up and placing pieces on a physical board.
 - Camera vision using Matlab.
 - Closed circuit motor control via PID.
 - Encoder feedback processing.
+- PCB design and handmade creation.
 - Sequencing and synchronization of movement.
-- Debugging of integrated systems in real time.
 
 This project was developed as part of my bachelor's degree in Robotics Engineering.
 
