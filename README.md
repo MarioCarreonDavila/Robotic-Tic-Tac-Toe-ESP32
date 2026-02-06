@@ -33,7 +33,7 @@ by automatically picking up and placing pieces on a physical board.
 - PCB design and handmade creation.
 - Sequencing and synchronization of movement.
 
-This project was developed as part of my bachelor's degree in Robotics Engineering.
+This project was developed as part of my Robotics Engineering degree.
 
 ## Demo
 ![Robotic Tic-Tac-Toe](media/robot.jpg)
