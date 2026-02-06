@@ -9,7 +9,7 @@ by automatically picking up and placing pieces on a physical board.
 - SolidWorks design.
 - Webcam used for vision.
 - 3 DC motors with quadrature encoders.
-- Homemade PCB and designed in EasyEDA.
+- Homemade PCB designed in EasyEDA.
 - PID based motor control.
 - Automated collection and placement using electromagnet.
 - Positioning based on angular movement (degrees to pulses).
